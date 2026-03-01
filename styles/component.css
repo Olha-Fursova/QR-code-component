@@ -1,0 +1,59 @@
+.main {
+  width: 320px;
+  height: fit-content;
+  background-color: var(--white);
+  padding: 16px;
+  padding-bottom: 40px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.image-box {
+  width: 288px;
+  height: 288px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--blue-600);
+  border-radius: 10px;
+
+  overflow: hidden;
+  position: relative;
+}
+
+.text-box {
+  display: flex;
+  flex-direction: column;
+  padding: 0 16px;
+  gap: 16px;
+}
+
+.image {
+  width: 160px;
+  height: 160px;
+  z-index: 1;
+}
+
+.oval {
+  position: absolute;
+  z-index: 0;
+  border-radius: 50%;
+}
+
+.oval-1 {
+  top: -164.5px;
+  left: -131.5px;
+  width: 328px;
+  height: 328px;
+  background-color: var(--blue-500);
+}
+
+.oval-2 {
+  top: 204.5px;
+  left: 131.5px;
+  width: 270px;
+  height: 270px;
+  background-color: var(--blue-500);
+}

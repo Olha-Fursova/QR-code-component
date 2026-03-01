@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+![Design preview for the QR code component coding challenge](./image/preview.jpg)
 
 ## Welcome! 👋
 
@@ -9,6 +9,20 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
+
+### My Overview
+
+In this project, I implemented a card component with a QR code.
+The main elements are the QR code image itself, two text elements, and two circles for the background.
+
+## My Project Goal
+
+The level of this task is very easy for me, so the goal from the very beginning was different - to try myself as an explainer of the construction and step-by-step writing of the code during streaming.
+If the construction is not a problem, then the correct ability to explain is another task. Considering that there was one viewer present at the recording, it was important for me to consistently follow the logic of working on the project. One viewer is one person in front of you who came for a certain resource, and the feed is a door that can open access to it or, conversely, close it.
+
+## Problems that arose
+
+I speak English, but not at the level of a native speaker, so some mistakes occurred due to incorrect grammar. It was also often a problem to explain correctly what I understood and to show it visually. I often repeated the same words and phrases that did not expand my thoughts. I think this is a common problem when you are not used to the audience, so I see a good reason to practice such streaming more often.
 
 ## The challenge
 
